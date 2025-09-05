@@ -20,8 +20,8 @@ This toolkit will create either a vertical, horizontal, or all quadrangle lines 
 ### Vector Line Quality Assuarance
 This toolkit helps in the consistent representation of different rock types and stratigraphic units. It ensures that the standard geologic patterns and colors are correctly applied across the map.
 #### Parameters
-* **Inputs:** Select from a predefined list of lithologies (e.g., sandstone, shale, limestone) or create a custom one.
-* **Purpose:** Adjust the density and size of the lithologic patterns.
-* **Products:** Enter the name and age of the stratigraphic unit to be automatically included in the map key.
+* **Inputs:** ---.
+* **Purpose:** ---.
+* **Products:** ---.
 
 ---
