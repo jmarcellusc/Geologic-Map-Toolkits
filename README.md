@@ -7,8 +7,14 @@ I create geologic map toolkits to streamline the process of producing accurate a
 ## List of Toolkits
 
 Here are a start of various geologic mapping toolkits I've developed, each with a specific purpose:
+- Map Neatline Generator
+- Vector Line Quality Assurance
+- Global ID | Domains
+- Geologic Unit Assembler Quality Assurance
+- Class Inspector
+- 
 
-### Map Neatline Toolkit
+### Map Neatline Generator
 This toolkit will create either a vertical, horizontal, or all quadrangle lines that is used in the map neatlines. Tool is under revision.
 #### Parameters
 * **Inputs:** ---.
